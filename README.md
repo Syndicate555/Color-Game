@@ -1,6 +1,8 @@
 # Color-Game
 A Simple RGB color guessing game created with HTML, CSS and Vanilla Javascript
 
+Try it out here https://compassionate-pike-4d1bec.netlify.com/
+
 ## ScreenShots
 
 ### Easy Mode
