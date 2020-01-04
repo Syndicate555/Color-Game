@@ -6,14 +6,14 @@ Try it out :
 ## ScreenShots
 
 ### Easy Mode
-![Image of HomeScreen](https://github.com/Syndicate555/Color-Game/Screenshots/easy.jpg)
+![Image of HomeScreen](https://github.com/Syndicate555/Color-Game/tree/master/Screenshots/easy.jpg)
 
 ### Medium Mode
-![Image of HomeScreen](https://github.com/Syndicate555/Color-Game/Screenshots/medium.jpg)
+![Image of HomeScreen](https://github.com/Syndicate555/Color-Game/tree/master/Screenshots/medium.jpg)
 
 ### Hard Mode
-![Image of HomeScreen](https://github.com/Syndicate555/Color-Game/Screenshots/Hard.jpg)
+![Image of HomeScreen](https://github.com/Syndicate555/Color-Game/tree/master/Screenshots/Hard.jpg)
 
 ### Very Hard Mode
-![Image of HomeScreen](https://github.com/Syndicate555/Color-Game/Screenshots/Vhard.jpg)
+![Image of HomeScreen](https://github.com/Syndicate555/Color-Game/tree/master/Screenshots/Vhard.jpg)
 
